@@ -5,7 +5,7 @@ export default function Footer() {
     <>
       <footer className={styles.footer}>
         {/* Made with <img src="/netliheart.svg" alt="Netlify Logo" className={styles.logo} /> for you */}
-        Hi my devlopers ..    Testing 
+        Hi my devlopers ..    Testing  new one
       </footer>
     </>
   )
